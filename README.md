@@ -89,3 +89,5 @@ into *fractional* subproblems. While the asymptotic runtimes of both approaches
 were the same in these exercises, we will study problems later in the course
 where divide & conquer approaches have a lower asymptotic runtime.
 
+>>we made it here!
+
